@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Tue Jul 10 18:58:10 CST 2018
-1.base=D\:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\transforms\\dex\\release\\0
+#Wed Jul 11 13:56:31 CST 2018
+1.base=D\:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\assets\\release
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
-1.set=DEX
-0.path=litepal.xml
-0.set=ASSET
-0.base=D\:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\assets\\release
-1.path=classes.dex
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\transforms\\dex\\release\\0
+1.path=litepal.xml

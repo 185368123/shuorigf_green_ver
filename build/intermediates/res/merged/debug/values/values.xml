@@ -274,10 +274,14 @@
     <string name="your_device_bluetooth_not_supported">Your device doesn\'t support Bluetooth</string>
     <string name="your_device_not_supported">Your device doesn\'t support this APP</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
-        
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
     <style name="PageTitle">
         <item name="android:textSize">17.0sp</item>
@@ -290,23 +294,23 @@
     <style name="Theme" parent="android:Theme"/>
     <style name="Theme.Transparent">
 
-        
+        <!-- 设置允许窗口半透明 -->
 
         <item name="android:windowIsTranslucent">true</item>
 
-        
+        <!-- 引用Android系统的动画半透明样式 -->
 
         <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
 
-        
+        <!-- 设定窗口背景颜色 -->
 
         <item name="android:windowBackground">@color/transparent_background</item>
 
-        
+        <!-- 隐藏窗口标题栏 -->
 
         <item name="android:windowNoTitle">true</item>
 
-        
+        <!-- 设定文字前景色 -->
 
         <item name="android:colorForeground">#fff</item>
     </style>

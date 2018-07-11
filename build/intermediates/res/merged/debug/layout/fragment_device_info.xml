@@ -220,9 +220,8 @@
             <TextView
                 android:id="@+id/tv_device_name_value"
                 style="@style/device_info_layout_right_text_style"
-                android:layout_width="0.0dip"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1.0"
                 android:text="@string/init_null_charter" />
 
             <TextView
@@ -232,7 +231,7 @@
                 android:layout_width="0.0dip"
                 android:layout_height="wrap_content"
                 android:layout_weight="1.0"
-                android:textColor="@color/lightBlueColor"
+                android:textColor="@color/black"
                 android:text="@string/change_device_name" />
         </LinearLayout>
 

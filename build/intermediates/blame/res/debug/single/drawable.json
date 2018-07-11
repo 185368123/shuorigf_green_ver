@@ -1,83 +1,79 @@
 [
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_monitoring_elected.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_monitoring_elected.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\test.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\test.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swich_button_selector.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\bg_swich_button_selector.xml"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_on_p.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_track_on_p.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_right_press.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_white_right_press.9.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\marker2.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_06.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_accumulator_06.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\marker.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\marker.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_middle.9.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_white_middle.9.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\weibo_detail_bottom_bg.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\weibo_detail_bottom_bg.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_off.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_off.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option_01.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_option_01.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_right_focus.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_white_right_focus.9.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_02.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_accumulator_02.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_thumb_button.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_thumb_button.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_left_focus.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_white_left_focus.9.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\f_btn_style_head.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\f_btn_style_head.xml"
     },
     {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_data.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_data.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\real_time_monitoring_selector.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\real_time_monitoring_selector.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_option.9.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_off.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\switch_track_off.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_link_elected.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_link_elected.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_middle.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_white_middle.9.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_left_focus.9.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_white_left_focus.9.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_option.9.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_back.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_on.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_track_on.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_off_p.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_track_off_p.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_grey_press.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_grey_press.9.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_link.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_link.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_device_status_drawable.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_device_status_drawable.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_unchecked.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\radio_unchecked.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\marker.png",
@@ -88,36 +84,24 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\button_text_color.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\popupview_bg.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\popupview_bg.xml"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_backwards.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_backwards.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_affirm.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_affirm.9.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_drawable.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\btn_cancel_drawable.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_last_day_drawable.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\btn_last_day_drawable.xml"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_selector.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\layout_selector.xml"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_shade.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_shade.png"
-    },
-    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_forward.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_forward.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_off.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_track_off.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_energy_02.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_energy_02.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_forward.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_forward.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\device_info_selector.xml",
@@ -130,10 +114,6 @@
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_spread.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_spread.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_right_press.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_grey_right_press.9.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_energy_04.png",
@@ -152,8 +132,28 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_data.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_04.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_accumulator_04.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\button_text_color.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\button_text_color.xml"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_more_selector.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\ico_more_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_thumb.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\switch_thumb.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_middle.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_middle.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\wheel_val.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_settings_elected.png",
@@ -164,112 +164,88 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_thumb.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_monitoring.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_monitoring.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\content_bg.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\content_bg.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_left_press.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_white_left_press.9.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_settings_elected.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_settings_elected.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_elected.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_back_elected.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_left_focus.9.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_grey_left_focus.9.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_left.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_grey_left.9.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_historical_into_chart.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\btn_historical_into_chart.xml"
-    },
-    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_energy_02.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_energy_02.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_grey.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_grey.9.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option_01elected.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_option_01elected.9.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_affirm_drawable.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\btn_affirm_drawable.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_triangle.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_triangle.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_05.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_accumulator_05.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\linearlayout_background.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\linearlayout_background.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_more_selector.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\ico_more_selector.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_affirm_elected.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_affirm_elected.9.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\marker1.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\marker1.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_right_focus.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_grey_right_focus.9.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_elected.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_back_elected.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_off.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_off.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_energy_04.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_energy_04.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_left.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_left.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\bottombar_itembg_selector.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\bottombar_itembg_selector.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_backgorund_corner.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\pressed_backgorund_corner.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option_02elected.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_option_02elected.9.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_off_p.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\switch_track_off_p.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_checked.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\radio_checked.xml"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_backwards_elected.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_backwards_elected.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_middle.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_grey_middle.9.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_right_press.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_white_right_press.9.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\test.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\test.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_right.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_right.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_right.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_white_right.9.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_historical_into_chart.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\btn_historical_into_chart.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_load_03.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_load_03.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_drawable.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\btn_back_drawable.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_left_press.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_white_left_press.9.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\color_line.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\color_line.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_left.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_grey_left.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_drawable.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\btn_back_drawable.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_white.9.png",
@@ -280,60 +256,80 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_accumulator_01.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_data_elected.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_data_elected.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_thumb_button.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\switch_thumb_button.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_load_02.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_load_02.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_right_focus.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_grey_right_focus.9.png"
-    },
-    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\ksw_md_thumb.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\ksw_md_thumb.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_forward_elected.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_forward_elected.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\ksw_md_thumb.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\ksw_md_thumb.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_load_03.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_load_03.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_02.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_accumulator_02.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_left.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_white_left.9.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_right.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_grey_right.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_spread.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_spread.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\linearlayout_background.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\linearlayout_background.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\param_setting_selector.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\param_setting_selector.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\wheel_val.xml"
     },
     {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_affirm_drawable.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\btn_affirm_drawable.xml"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_white_focus.9.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_white_focus.9.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_grey_focus.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_grey_focus.9.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\device_info_selector.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\device_info_selector.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cancel_elected.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_cancel_elected.9.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_load_01.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_load_01.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\weibo_detail_bottom_bg.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\weibo_detail_bottom_bg.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_white_focus.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_white_focus.9.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_03.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_accumulator_03.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_grey.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_grey.9.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_settings.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_settings.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_backwards_elected.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_backwards_elected.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_shape_common_style.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\sel_shape_common_style.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_unchecked.xml",
@@ -344,56 +340,36 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_load_01.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_load_04.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_load_04.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_drawable.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\btn_cancel_drawable.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_energy_01.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_energy_01.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\historical_data_selector.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\historical_data_selector.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_back.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_energy_03.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_energy_03.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_backgorund_corner.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\pressed_backgorund_corner.xml"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_information_elected.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_information_elected.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_04.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_accumulator_04.png"
-    },
-    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_add.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_add.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_load_05.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_load_05.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\start_logo.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\start_logo.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cancel.9.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_cancel.9.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_on.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\switch_track_on.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_information.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_information.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_middle.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_middle.xml"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\ic_launcher.png"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cancel.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_cancel.9.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_link_elected.png",
@@ -402,6 +378,10 @@
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_style_corner_popwin.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\bg_style_corner_popwin.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_next_day_drawable.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\btn_next_day_drawable.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_middle_focus.9.png",
@@ -416,10 +396,6 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_white_middle_press.9.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_on.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_on.png"
-    },
-    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_search.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_search.png"
     },
@@ -428,16 +404,8 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\wheel_bg.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\param_setting_selector.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\param_setting_selector.xml"
-    },
-    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_right.9.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_grey_right.9.png"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option_02.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_option_02.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\start_logo.png",
@@ -448,6 +416,10 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_track_off_button.xml"
     },
     {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_white.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_white.9.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_button.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_button.xml"
     },
@@ -456,12 +428,12 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_triangle.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\content_bg.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\content_bg.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_backwards.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_backwards.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_shape_common_style.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\sel_shape_common_style.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_load_02.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_load_02.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_next_day_drawable.xml",
@@ -472,7 +444,511 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_affirm.9.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_shade.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_shade.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_middle_press.9.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_grey_middle_press.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_energy_03.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_energy_03.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_monitoring_elected.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_monitoring_elected.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_01.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_accumulator_01.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_right.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_white_right.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\test.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\test.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swich_button_selector.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\bg_swich_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_on_p.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_track_on_p.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_06.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_accumulator_06.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\popupview_bg.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\popupview_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_grey_focus.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_grey_focus.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_link.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_link.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_right_focus.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_white_right_focus.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_device_status_drawable.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\switch_device_status_drawable.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_thumb_button.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_thumb_button.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_on_p.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\switch_track_on_p.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_forward_elected.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_forward_elected.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_right_press.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_grey_right_press.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\f_btn_style_head.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\f_btn_style_head.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_on.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_track_on.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_off_p.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_track_off_p.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_link.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_link.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_grey_press.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_grey_press.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_checked.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\radio_checked.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swich_button_selector.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\bg_swich_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_device_status_drawable.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_device_status_drawable.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\popupview_bg.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\popupview_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_backwards.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_backwards.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_last_day_drawable.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\btn_last_day_drawable.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_button.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_button.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_middle_focus.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_grey_middle_focus.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_selector.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\layout_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_shade.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_shade.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_off.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\switch_track_off.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_left.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_left.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_03.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_accumulator_03.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_right_press.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_grey_right_press.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_monitoring.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_monitoring.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_left_press.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_white_left_press.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_left.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_grey_left.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_historical_into_chart.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\btn_historical_into_chart.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_grey.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_grey.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_off_button.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\switch_track_off_button.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_last_day_drawable.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\btn_last_day_drawable.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option_01elected.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_option_01elected.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_affirm_drawable.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\btn_affirm_drawable.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_on.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_on.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\linearlayout_background.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\linearlayout_background.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_middle_press.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_grey_middle_press.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_affirm_elected.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_affirm_elected.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\marker1.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\marker1.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_off.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_off.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_energy_01.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_energy_01.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_search.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_search.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\bottombar_itembg_selector.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\bottombar_itembg_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option_02elected.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_option_02elected.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_checked.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\radio_checked.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cancel.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_cancel.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_backwards_elected.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_backwards_elected.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_middle.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_grey_middle.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_right_press.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_white_right_press.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_drawable.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\btn_back_drawable.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_affirm_elected.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_affirm_elected.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_right.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_white_right.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_monitoring_elected.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_monitoring_elected.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_information.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_information.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\color_line.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\color_line.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_data_elected.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_data_elected.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option_03.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_option_03.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_style_corner_popwin.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\bg_style_corner_popwin.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\historical_data_selector.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\historical_data_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_right_focus.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_grey_right_focus.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_forward_elected.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_forward_elected.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option_02.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_option_02.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_option.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_left.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_white_left.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\bottombar_itembg_selector.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\bottombar_itembg_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_selector.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\layout_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cancel_elected.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_cancel_elected.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_grey_focus.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_grey_focus.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cancel_elected.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_cancel_elected.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\marker2.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\weibo_detail_bottom_bg.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\weibo_detail_bottom_bg.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_grey_press.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_grey_press.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_load_04.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_load_04.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_03.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_accumulator_03.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_settings.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_settings.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_right_focus.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_white_right_focus.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_06.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_accumulator_06.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_information_elected.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_information_elected.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option_01.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_option_01.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_data_elected.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_data_elected.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_load_04.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_load_04.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_energy_01.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_energy_01.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\historical_data_selector.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\historical_data_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_backgorund_corner.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\pressed_backgorund_corner.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_information_elected.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_information_elected.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_04.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_accumulator_04.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option_01elected.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_option_01elected.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_monitoring.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_monitoring.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_middle_press.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_white_middle_press.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_load_05.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_load_05.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_middle.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\segment_radio_middle.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_middle_focus.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_white_middle_focus.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_accumulator_05.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_accumulator_05.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_white_left.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_white_left.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_add.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_add.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_settings.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_settings.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_left_press.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_grey_left_press.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_on.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_on.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_left_focus.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_grey_left_focus.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_grey_middle.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_grey_middle.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\segment_radio_right.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\segment_radio_right.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\param_setting_selector.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\param_setting_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_on_button.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\switch_track_on_button.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option_02.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\icon_option_02.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\content_bg.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\content_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_shape_common_style.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable\\sel_shape_common_style.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_option_02elected.9.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_option_02elected.9.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_load_05.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\icon_load_05.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\color_line.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\color_line.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\real_time_monitoring_selector.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\real_time_monitoring_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable\\marker1.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable\\marker1.png"
     }
 ]

@@ -4,6 +4,98 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\view_battery_parameters.xml"
     },
     {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\item_device_info.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\item_device_info.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\dialog_add_device.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\dialog_add_device.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\activity_start.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\fragment_realtime_monitor.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\fragment_realtime_monitor.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\update_password_dialog.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\update_password_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\dialog_set_date.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\dialog_set_date.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\item_popup_listview.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\item_popup_listview.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\dialog_list_item_select.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\dialog_list_item_select.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\fragment_param_setting.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\fragment_param_setting.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\item_list_info.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\item_list_info.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\fragment_device_info.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\fragment_device_info.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\view_popup.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\view_popup.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\fragment_historical_chart.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\fragment_historical_chart.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\item_list_info.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\item_list_info.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\dialog_normal.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\dialog_normal.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\activity_historical_data.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\activity_historical_data.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\custom_marker_view.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\custom_marker_view.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\dialog_add_device.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\dialog_add_device.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\dialog_list_item_select.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\dialog_list_item_select.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\view_battery_parameters.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\view_battery_parameters.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\view_popup.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\view_popup.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\item_device_info.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\item_device_info.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\fragment_device_info.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\fragment_device_info.xml"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\view_load_parameters.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\view_load_parameters.xml"
     },
@@ -12,24 +104,24 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\fragment_historical_chart.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\item_device_info.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\item_device_info.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\fragment_historical_data.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\fragment_historical_data.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\dialog_show_soft_version_info.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\dialog_show_soft_version_info.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\dialog_add_device.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\dialog_add_device.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\dialog_set_date.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\dialog_set_date.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\fragment_realtime_monitor.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\fragment_realtime_monitor.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\dialog_set_date.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\dialog_set_date.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\dialog_normal.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\dialog_normal.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\custom_marker_view.xml",
@@ -40,36 +132,32 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\fragment_param_setting.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\dialog_list_item_select.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\dialog_list_item_select.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\item_list_info.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\item_list_info.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\dialog_input.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\dialog_input.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\view_load_parameters.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\view_load_parameters.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\dialog_input.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\dialog_input.xml"
-    },
-    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\item_popup_listview.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\item_popup_listview.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\fragment_device_info.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\fragment_device_info.xml"
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\dialog_input.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\dialog_input.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\fragment_historical_data.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\fragment_historical_data.xml"
-    },
-    {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\dialog_normal.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\dialog_normal.xml"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\update_password_dialog.xml",
@@ -80,11 +168,11 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\activity_start.xml"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\view_popup.xml",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\view_popup.xml"
-    },
-    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\layout\\activity_historical_data.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\layout\\activity_historical_data.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\layout\\dialog_show_soft_version_info.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\layout\\dialog_show_soft_version_info.xml"
     }
 ]

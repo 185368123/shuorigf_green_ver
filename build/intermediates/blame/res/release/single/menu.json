@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\menu\\main.xml"
     }
 ]
