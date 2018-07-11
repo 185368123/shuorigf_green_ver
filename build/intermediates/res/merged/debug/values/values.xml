@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alpha">#00000000</color>
+    <color name="app_background">#fff7f8fb</color>
+    <color name="app_background1">#ffffffff</color>
+    <color name="app_background_no">#FFB5B5B2</color>
+    <color name="battery_charging_state_text_color">#a29d9d</color>
+    <color name="battery_esidual_capacity_text_color">#a29d9d</color>
+    <color name="battery_temperature_text_color">#a29d9d</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="blue_dark">#ff00008b</color>
+    <color name="blue_medium">#ff0000cd</color>
+    <color name="cancel_text_color">#FF676767</color>
+    <color name="dark">#ff333333</color>
+    <color name="fragment_background">#ffefefeb</color>
+    <color name="gray">#ff666666</color>
+    <color name="gray_dim">#ff696969</color>
+    <color name="gray_light">#ff808080</color>
+    <color name="half_alpha">#b0000000</color>
+    <color name="half_half_alpha">#60000000</color>
+    <color name="ksw_md_ripple_checked">#33019285</color>
+    <color name="ksw_md_ripple_normal">#1E000000</color>
+    <color name="ksw_md_solid_checked">#019285</color>
+    <color name="ksw_md_solid_checked_disable">#aaaaaa</color>
+    <color name="ksw_md_solid_disable">#FFFFFF</color>
+    <color name="ksw_md_solid_normal">#ECECEC</color>
+    <color name="ksw_md_solid_shadow">#33000000</color>
+    <color name="lightBlueColor">#ff23a1ee</color>
+    <color name="light_gray">#FFD9DCE3</color>
+    <color name="light_gray_color">#FFD9DCE3</color>
+    <color name="light_gray_line">#FFE0E0E0</color>
+    <color name="light_gray_line_ba">#FFBABABA</color>
+    <color name="light_yellow">#ff61993b</color>
+    <color name="light_yellow1">#ff61993b</color>
+    <color name="orange">#ffa500</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="radio_button_selected_color">#ff61993b</color>
+    <color name="radio_button_unselected_color">#fff7f8fb</color>
+    <color name="realtime_battery_layout_text_title">#4c4c4c</color>
+    <color name="realtime_down_frame_color">#6960ff</color>
+    <color name="realtime_mid_frame_color">#f18c00</color>
+    <color name="realtime_parameter_title">#9d9d9d</color>
+    <color name="realtime_up_frame_color">#2facf5</color>
+    <color name="red">#ffff0000</color>
+    <color name="red_dark">#ff8b0000</color>
+    <color name="transparent">#0000</color>
+    <color name="transparent_background">#00000000</color>
+    <color name="weibo_listtab_off">#8d8d8d</color>
+    <color name="white">#ffffffff</color>
+    <declare-styleable name="LargeTouchableAreaView"><attr format="dimension" name="addition"/><attr format="dimension" name="additionBottom"/><attr format="dimension" name="additionLeft"/><attr format="dimension" name="additionRight"/><attr format="dimension" name="additionTop"/></declare-styleable>
+    <declare-styleable name="PengRadioButton"><attr format="dimension" name="peng_drawableTopWith"/><attr format="dimension" name="peng_drawableTopHeight"/><attr format="dimension" name="peng_drawableBottomWith"/><attr format="dimension" name="peng_drawableBottomHeight"/><attr format="dimension" name="peng_drawableRightWith"/><attr format="dimension" name="peng_drawableRightHeight"/><attr format="dimension" name="peng_drawableLeftWith"/><attr format="dimension" name="peng_drawableLeftHeight"/><attr format="reference" name="peng_drawableTop"/><attr format="reference" name="peng_drawableBottom"/><attr format="reference" name="peng_drawableRight"/><attr format="reference" name="peng_drawableLeft"/></declare-styleable>
+    <declare-styleable name="SegmentedGroup"><attr format="dimension" name="sc_corner_radius"/><attr format="dimension" name="sc_border_width"/><attr format="color" name="sc_tint_color"/><attr format="color" name="sc_checked_text_color"/></declare-styleable>
+    <declare-styleable name="SwitchButton"><attr format="reference" name="kswThumbDrawable"/><attr format="color|reference" name="kswThumbColor"/><attr format="dimension|reference" name="kswThumbMargin"/><attr format="dimension|reference" name="kswThumbMarginTop"/><attr format="dimension|reference" name="kswThumbMarginBottom"/><attr format="dimension|reference" name="kswThumbMarginLeft"/><attr format="dimension|reference" name="kswThumbMarginRight"/><attr format="dimension|reference" name="kswThumbWidth"/><attr format="dimension|reference" name="kswThumbHeight"/><attr format="dimension|reference" name="kswThumbRadius"/><attr format="dimension|reference" name="kswBackRadius"/><attr format="reference" name="kswBackDrawable"/><attr format="color|reference" name="kswBackColor"/><attr format="boolean" name="kswFadeBack"/><attr format="float" name="kswBackMeasureRatio"/><attr format="integer" name="kswAnimationDuration"/><attr format="color|reference" name="kswTintColor"/><attr format="string" name="kswTextOn"/><attr format="string" name="kswTextOff"/><attr format="dimension" name="kswTextMarginH"/></declare-styleable>
+    <declare-styleable name="dashedline"><attr format="color" name="lineColor"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="btnTextSize">16sp</dimen>
+    <dimen name="ksw_md_thumb_ripple_size">42dp</dimen>
+    <dimen name="ksw_md_thumb_shadow_inset">11dp</dimen>
+    <dimen name="ksw_md_thumb_shadow_inset_bottom">10dp</dimen>
+    <dimen name="ksw_md_thumb_shadow_inset_top">11dp</dimen>
+    <dimen name="ksw_md_thumb_shadow_offset">2dp</dimen>
+    <dimen name="ksw_md_thumb_shadow_size">21dp</dimen>
+    <dimen name="ksw_md_thumb_solid_inset">11dp</dimen>
+    <dimen name="ksw_md_thumb_solid_size">20dp</dimen>
+    <dimen name="radio_button_conner_radius">5dp</dimen>
+    <dimen name="radio_button_stroke_border">1dp</dimen>
+    <string name="action_settings">Set</string>
+    <string name="added_device">Add Device</string>
+    <string name="all">All</string>
+    <string name="all_chart_summary">All Diagrams</string>
+    <string name="all_consumption_power">Consumption Amount</string>
+    <string name="all_production_power">Generation Amount</string>
+    <string name="all_run_days">Running Days Total</string>
+    <string name="apm_hour">Ah</string>
+    <string name="app_name">WCS</string>
+    <string name="automatic_recognition">Auto recogniton</string>
+    <string name="ave_value">Ave Value</string>
+    <string name="balanced_charge_voltage_set">Equalize Charge Volt(V)</string>
+    <string name="base_month_chart_summary">Diagram of Month</string>
+    <string name="base_year_chart_summary">Diagram of Year</string>
+    <string name="battery">Battery</string>
+    <string name="battery_all_discharge_times">Battery Over Disc Times</string>
+    <string name="battery_board_parameter">PV Parameter</string>
+    <string name="battery_charge_all_apm_hour">Battery Char Ah Total</string>
+    <string name="battery_charge_full_times">Battery Full Charge Times</string>
+    <string name="battery_discharge_all_apm_hour">Battery Disc Ah Total</string>
+    <string name="battery_esidual_capacity">Battery Capacity</string>
+    <string name="battery_parameters">Battery Parameter</string>
+    <string name="battery_plate_state">PV Status</string>
+    <string name="battery_state">Battery Status</string>
+    <string name="battery_state_val00h">Charge not ready</string>
+    <string name="battery_state_val01h">Start charge </string>
+    <string name="battery_state_val02h">MPPT charge mode</string>
+    <string name="battery_state_val03h">Equalize charge mode</string>
+    <string name="battery_state_val04h">Boost charge mode</string>
+    <string name="battery_state_val05h">Float charge mode</string>
+    <string name="battery_state_val06h">Current constant mode</string>
+    <string name="battery_temperature">Battery Temp.</string>
+    <string name="battery_type_set">Battery Type</string>
+    <string name="battery_type_val00h">USER</string>
+    <string name="battery_type_val01h">FLD</string>
+    <string name="battery_type_val02h">SLD</string>
+    <string name="battery_type_val03h">GEL</string>
+    <string name="battery_type_val04h">LI</string>
+    <string name="battery_voltage">Battery Voltage</string>
+    <string name="can_not_connect_device_info">No device connection, please add device．</string>
+    <string name="cancel">Cancel</string>
+    <string name="capacity">Capacity</string>
+    <string name="centigrade">℃</string>
+    <string name="change_device_name">Modification</string>
+    <string name="change_device_name_">Modify device name</string>
+    <string name="charge_apm_hour">Charge Ah</string>
+    <string name="charge_imit_oltage_set">Charge Limit Voltage(V)</string>
+    <string name="charge_max_power">Max Charge Power</string>
+    <string name="charging_electricity">Charge Current</string>
+    <string name="charging_power">Charge Power</string>
+    <string name="charging_state">Charge Status</string>
+    <string name="check_update">Update Check</string>
+    <string name="closed">Close</string>
+    <string name="confirm">Confirm</string>
+    <string name="connect_device_device_success">Device connecting %s </string>
+    <string name="consumption_power">Consumption Power</string>
+    <string name="controller_info_byte0">Battery over disc</string>
+    <string name="controller_info_byte1">Battery high volt</string>
+    <string name="controller_info_byte10">PV anti current</string>
+    <string name="controller_info_byte11">PV work volt over limit</string>
+    <string name="controller_info_byte12">PV anti connection</string>
+    <string name="controller_info_byte13">Anti-reverse MOS short</string>
+    <string name="controller_info_byte14">circuit, charge MOS short circuit</string>
+    <string name="controller_info_byte2">Batt low volt alart</string>
+    <string name="controller_info_byte3">Load short circ</string>
+    <string name="controller_info_byte4">Load over current</string>
+    <string name="controller_info_byte5">Device over heating</string>
+    <string name="controller_info_byte6">Outer temp over limit</string>
+    <string name="controller_info_byte7">Over PV input</string>
+    <string name="controller_info_byte8">PV input short circ</string>
+    <string name="controller_info_byte9">PV input over volt</string>
+    <string name="controller_info_none">Normal</string>
+    <string name="correct_password">password is correct</string>
+    <string name="current_version_info">The Current APP Version is 1.0.7</string>
+    <string name="day">Day</string>
+    <string name="day_battery_max_voltage">Max Battery Volt</string>
+    <string name="day_battery_min_voltage">Min Battery Volt</string>
+    <string name="day_charge_amp_hour">Charge Ah Same Day</string>
+    <string name="day_charge_max_power">Max Char Power</string>
+    <string name="day_consumption_power">Power Use Same Day</string>
+    <string name="day_discharge_amp_hour">Discharge Ah</string>
+    <string name="day_discharge_max_power">Max Disc Power</string>
+    <string name="day_production_power">Power Generate</string>
+    <string name="device_connect_state">Connection status</string>
+    <string name="device_connected">Device connected</string>
+    <string name="device_disconnected">Device disconnected</string>
+    <string name="device_id">Device ID</string>
+    <string name="device_info">Device Info</string>
+    <string name="device_name">Device name</string>
+    <string name="device_name_exists">The device name already exists</string>
+    <string name="device_name_set_failed">setting failed</string>
+    <string name="device_name_set_sucess">setting success</string>
+    <string name="device_param_getting_failed">Read failure</string>
+    <string name="device_param_getting_success">Read successfully</string>
+    <string name="device_param_setting_failed">Set failure</string>
+    <string name="device_param_setting_nothing">Invalid operation, no parameter set</string>
+    <string name="device_param_setting_success">Set successfully</string>
+    <string name="device_sn_code">Device Sn Code</string>
+    <string name="device_status">Device Status</string>
+    <string name="device_type">Device Model No.:</string>
+    <string name="device_version">Device Version</string>
+    <string name="discharge_apm_hour">Disc Ah</string>
+    <string name="discharge_limit_voltage_set">Discharge Limit Volt(V)</string>
+    <string name="discharge_max_power">Max Disc Power</string>
+    <string name="disconnect_device_info">Device disconnect</string>
+    <string name="disconnected_device">Disconnect device</string>
+    <string name="electricity">Current</string>
+    <string name="electricity_colon">Current:</string>
+    <string name="electricity_load">Current</string>
+    <string name="equalization_charging_time_set">Equalize Charge Time(Min)</string>
+    <string name="equilibrium_charge_interval_set">Equalize Charge Interval</string>
+    <string name="first_working_power_set">1st Work Time Power(%)</string>
+    <string name="first_working_time_set">1st Work Time(H)</string>
+    <string name="float_charging_voltage_set">Float Charge Volt(V)</string>
+    <string name="get_admin">Administrator</string>
+    <string name="historical_data">Record</string>
+    <string name="in_common_use_param">General Parameter</string>
+    <string name="in_senior_use_param">Advanced Setting</string>
+    <string name="incorrect_password">Password is not correct</string>
+    <string name="init_null_charter">--</string>
+    <string name="last_day">Last Day</string>
+    <string name="lift_charge_return_voltage_set">Boost Char Return Volt(V)</string>
+    <string name="lift_charge_voltage_set">Boost Charge Volt(V)</string>
+    <string name="load">Load</string>
+    <string name="load_electricity">Load Current</string>
+    <string name="load_operating_mode_set">Load Mode</string>
+    <string name="load_operating_mode_val00h">Light Control</string>
+    <string name="load_operating_mode_val01h">Light Control 1 hour</string>
+    <string name="load_operating_mode_val02h">Light Control 2 hour</string>
+    <string name="load_operating_mode_val03h">Light Control 3 hour</string>
+    <string name="load_operating_mode_val04h">Light Control 4 hour</string>
+    <string name="load_operating_mode_val05h">Light Control 5 hour</string>
+    <string name="load_operating_mode_val06h">Light Control 6 hour</string>
+    <string name="load_operating_mode_val07h">Light Control 7 hour</string>
+    <string name="load_operating_mode_val08h">Light Control 8 hour</string>
+    <string name="load_operating_mode_val09h">Light Control 9 hour</string>
+    <string name="load_operating_mode_val0ah">Light Control 10 hour</string>
+    <string name="load_operating_mode_val0bh">Light Control 11 hour</string>
+    <string name="load_operating_mode_val0ch">Light Control 12 hour</string>
+    <string name="load_operating_mode_val0dh">Light Control 13 hour</string>
+    <string name="load_operating_mode_val0eh">Light Control 14 hour</string>
+    <string name="load_operating_mode_val0fh">Manual mode</string>
+    <string name="load_operating_mode_val10h">Testing mode</string>
+    <string name="load_operating_mode_val11h">Always-on mode</string>
+    <string name="load_parameters">Load Parameter</string>
+    <string name="load_power">Load Power</string>
+    <string name="load_state">Load Status</string>
+    <string name="load_switch">Load Switch</string>
+    <string name="load_voltage">Load Voltage</string>
+    <string name="max_value">Max Value</string>
+    <string name="min_value">Min Value</string>
+    <string name="month">Month</string>
+    <string name="more_high_voltage">Max Voltage</string>
+    <string name="more_low_voltage">Min Voltage</string>
+    <string name="more_new_soft_version_info">This is the latest version</string>
+    <string name="morning_working_power_set">Morning Lighiting Power(%)</string>
+    <string name="morning_working_time_set">Morning Lighting Time(H)</string>
+    <string name="new_password">New password</string>
+    <string name="next_day">Next Day</string>
+    <string name="nominal_capacity_of_battery_set">Battery Rated Ah(AH)</string>
+    <string name="old_password">Old password</string>
+    <string name="opened">Open</string>
+    <string name="optical_control_delay_time_set">Light Control Delay Time(Min)</string>
+    <string name="optical_control_voltage_set">Light Control Volt(V)</string>
+    <string name="over_discharge_delay_time_set">Over Disc Delay Time(S)</string>
+    <string name="over_discharge_return_voltage_set">Over Disc Reture Volt(V)</string>
+    <string name="over_discharge_voltage_set">Over Dishcarge Volt(V)</string>
+    <string name="over_voltage_voltage_set">High Volt Disconnect(V)</string>
+    <string name="param_setting">Settings</string>
+    <string name="please_get_admin">Please get administrator privileges</string>
+    <string name="please_input_the_password">Please input the password</string>
+    <string name="please_select_fixed_sys_vol">Select a fixed system voltage according to the system</string>
+    <string name="production_power">Generation Power</string>
+    <string name="promote_charging_time_set">Boost Charge Time(Min)</string>
+    <string name="prompt">Hint</string>
+    <string name="readin">Read</string>
+    <string name="reaffirm_new_password">reaffirm new password</string>
+    <string name="real_time_monitoring">Monitoring</string>
+    <string name="realtime_monitor">Monitoring</string>
+    <string name="recovery_device">Restore factory default</string>
+    <string name="restore_factory_failed">Restore factiory failed</string>
+    <string name="restore_factory_success">Restore factiory success</string>
+    <string name="scan_device">Search Device</string>
+    <string name="scan_device_dialog_title">Devices found:</string>
+    <string name="second_working_power_set">2nd Work Time Power(%)</string>
+    <string name="second_working_time_set">2nd Work Time(H)</string>
+    <string name="setting">Set</string>
+    <string name="solar_panel">Solar panel</string>
+    <string name="solar_panel_electricity">PV Current</string>
+    <string name="solar_panel_voltage">PV Voltage</string>
+    <string name="state_colon">Status:</string>
+    <string name="system_voltage_set">System Voltage(V)</string>
+    <string name="temperature">Temp.</string>
+    <string name="temperature_compensation_coefficient_set">Temperature Compensation\n(mv/℃/2V)</string>
+    <string name="third_working_power_set">3rd Work Time Power(%)</string>
+    <string name="third_working_time_set">3rd Work Time(H)</string>
+    <string name="times">Times</string>
+    <string name="update_password">update password</string>
+    <string name="update_password_fail">update password fail</string>
+    <string name="update_password_success">update password success</string>
+    <string name="v_power">Power</string>
+    <string name="voltage">Voltage</string>
+    <string name="voltage_colon">Voltage:</string>
+    <string name="warning_under_voltage_set">Low Voltage Alarm(V)</string>
+    <string name="year">Year</string>
+    <string name="your_device_bluetooth_not_supported">Your device doesn\'t support Bluetooth</string>
+    <string name="your_device_not_supported">Your device doesn\'t support this APP</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+    <style name="PageTitle">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">#ff363636</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="Theme" parent="android:Theme"/>
+    <style name="Theme.Transparent">
+
+        
+
+        <item name="android:windowIsTranslucent">true</item>
+
+        
+
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+
+        
+
+        <item name="android:windowBackground">@color/transparent_background</item>
+
+        
+
+        <item name="android:windowNoTitle">true</item>
+
+        
+
+        <item name="android:colorForeground">#fff</item>
+    </style>
+    <style name="app_text_title_bold_style">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="battery_layout_text_content_style">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">#fff18c00</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">68dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+    </style>
+    <style name="battery_layout_text_title_bold_style">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/realtime_parameter_title</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">14.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+    </style>
+    <style name="battery_layout_text_title_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/realtime_battery_layout_text_title</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingLeft">39.0dip</item>
+    </style>
+    <style name="battery_linear_layout_horizontal_style">
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">27.0dip</item>
+        <item name="android:minHeight">25.0dip</item>
+    </style>
+    <style name="device_info_layout_left_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="device_info_layout_right_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#9d9d9d</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="historical_data_layout_text_title_bold_center_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">#1c1c1c</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="historical_data_layout_text_title_left_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/light_yellow1</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingRight">66.0dip</item>
+    </style>
+    <style name="historical_data_layout_text_title_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">36.0dip</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingTop">0.0dip</item>
+    </style>
+    <style name="historical_layout_text_title_style">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">#ff555555</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="historical_linear_layout_horizontal_style">
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">25.0dip</item>
+    </style>
+    <style name="historical_right_imagebtn_layout_style">
+        <item name="android:layout_width">22dp</item>
+        <item name="android:layout_height">22dp</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:layout_gravity">right|center_vertical</item>
+        <item name="android:background">@drawable/btn_historical_into_chart</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+         <item name="android:clickable">false</item>
+    </style>
+    <style name="historicalchart_layout_text_title_style">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">#e8160c</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="historicalchart_text_current_value_style">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="historicalchart_text_min_value_title_style">
+        <item name="android:textSize">9sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="historicalchart_text_min_value_value_style">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="historicalchart_text_title_style">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="item_device_info_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#1c1c1c</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">1.0dip</item>
+        <item name="android:paddingTop">1.0dip</item>
+    </style>
+    <style name="item_popup_layout_text_content_style">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">1.0dip</item>
+        <item name="android:paddingTop">1.0dip</item>
+        <item name="android:paddingRight">1.0dip</item>
+        <item name="android:paddingBottom">1.0dip</item>
+    </style>
+    <style name="light_tab">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingTop">1dip</item>
+        <item name="android:paddingBottom">3dip</item>
+        <item name="android:background">@drawable/bottombar_itembg_selector</item>
+        <item name="android:textColor">@color/bottombar_textcolor_selector</item>
+        <item name="android:button">@null</item>
+    </style>
+    <style name="list_item__info_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#777777</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">1.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+    </style>
+    <style name="more_new_soft_version_info_style">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/light_yellow</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    <style name="param_set_layout_text_title_bold_style">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="realtime_left_image_layout_style">
+        <item name="android:layout_width">21dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">25dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+    <style name="realtime_monitor_ex_text_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+    </style>
+    <style name="realtime_monitor_horizontal_line_style">
+        <item name="android:layout_height">1dip</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">#cccccc</item>
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:layout_marginRight">10dip</item>
+    </style>
+    <style name="realtime_monitor_text_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+    </style>
+    <style name="realtime_monitor_text_value_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+    </style>
+    <style name="scan_device_dialog_title_style">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/light_yellow</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">left</item>
+    </style>
+    <style name="tabbar_radio_button_style">
+        <item name="android:button">@null</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="tv_parameter_set_param_name_title_left_style">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">26dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="tv_parameter_set_param_name_title_style">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">0dp</item>
+    </style>
+    <style name="tv_parameter_set_param_title_style">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#9d9d9d</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+    <style name="tv_parameter_set_param_value_title_right_style">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/light_yellow</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:inputType">numberDecimal</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="tv_parameter_set_param_value_title_style">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/light_yellow</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">60dp</item>
+        <item name="android:minHeight">26dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:inputType">numberDecimal</item>
+        <item name="android:singleLine">true</item>
+    </style>
+</resources>

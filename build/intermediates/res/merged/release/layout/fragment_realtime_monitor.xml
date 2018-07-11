@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="10dip"
+    android:paddingLeft="12dip"
+    android:paddingRight="12dip"
+    android:paddingTop="10dip" >
+
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:background="@drawable/bg_taiyangnengdianchiban"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dip"
+                android:layout_marginLeft="22dip"
+                android:layout_marginRight="24dip"
+                android:layout_marginTop="15dip" >
+
+                <TextView
+                    style="@style/realtime_monitor_text_style"
+                    android:drawableLeft="@drawable/ico_taiyangnengban"
+                    android:drawablePadding="6dip"
+                    android:gravity="center_vertical"
+                    android:text="@string/solar_panel" />
+
+                <TextView
+                    android:id="@+id/tv_solar_panel_state_value"
+                    style="@style/realtime_monitor_text_style"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true" />
+
+                <TextView
+                    style="@style/realtime_monitor_text_style"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="8dip"
+                    android:layout_toLeftOf="@id/tv_solar_panel_state_value"
+                    android:text="@string/state_colon" />
+            </RelativeLayout>
+
+            <View style="@style/realtime_monitor_horizontal_line_style" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        style="@style/realtime_monitor_text_style"
+                        android:drawableLeft="@drawable/ico_dianya"
+                        android:drawablePadding="7dip"
+                        android:gravity="center_vertical"
+                        android:text="@string/voltage" />
+
+                    <TextView
+                        android:id="@+id/tv_solar_panel_voltage_value"
+                        style="@style/realtime_monitor_text_value_style"
+                        android:layout_marginTop="9dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        style="@style/realtime_monitor_text_style"
+                        android:drawableLeft="@drawable/ico_dianliu"
+                        android:drawablePadding="7dip"
+                        android:gravity="center_vertical"
+                        android:text="@string/electricity" />
+
+                    <TextView
+                        android:id="@+id/tv_solar_panel_electricity_value"
+                        style="@style/realtime_monitor_text_value_style"
+                        android:layout_marginTop="10dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        style="@style/realtime_monitor_text_style"
+                        android:drawableLeft="@drawable/ico_gonglv"
+                        android:drawablePadding="6dip"
+                        android:gravity="center_vertical"
+                        android:text="@string/charging_power" />
+
+                    <TextView
+                        android:id="@+id/tv_solar_panel_charging_power_value"
+                        style="@style/realtime_monitor_text_value_style"
+                        android:layout_marginTop="10dip" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+           android:layout_weight="1.8"
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_marginTop="8dip"
+            android:background="@drawable/bg_xudianchi"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dip"
+                android:layout_marginLeft="25dip"
+                android:layout_marginRight="24dip"
+                android:layout_marginTop="15dip" >
+
+                <TextView
+                    style="@style/realtime_monitor_text_style"
+                    android:drawableLeft="@drawable/ico_xudianchi"
+                    android:drawablePadding="9dip"
+                    android:gravity="center_vertical"
+                    android:text="@string/battery" />
+
+                <TextView
+                    android:id="@+id/tv_battery_state_value"
+                    style="@style/realtime_monitor_text_style"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true" />
+
+                <TextView
+                    style="@style/realtime_monitor_text_style"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="8dip"
+                    android:layout_toLeftOf="@id/tv_battery_state_value"
+                    android:text="@string/state_colon" />
+            </RelativeLayout>
+
+            <View style="@style/realtime_monitor_horizontal_line_style" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/realtime_monitor_ex_text_style"
+                            android:drawableLeft="@drawable/ico_dianya"
+                            android:drawablePadding="7dip"
+                            android:gravity="center_vertical"
+                            android:text="@string/voltage_colon" />
+
+                        <TextView
+                            android:id="@+id/tv_battery_voltage_value"
+                            style="@style/realtime_monitor_ex_text_style"
+                            android:layout_marginLeft="8dip" />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/realtime_monitor_ex_text_style"
+                            android:drawableLeft="@drawable/ico_dianliu"
+                            android:drawablePadding="7dip"
+                            android:gravity="center_vertical"
+                            android:text="@string/electricity_colon" />
+
+                        <TextView
+                            android:id="@+id/tv_battery_electricity_value"
+                            style="@style/realtime_monitor_ex_text_style"
+                            android:layout_marginLeft="8dip" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:visibility="gone"
+                    android:orientation="vertical" >
+
+
+                    <TextView
+                        android:id="@+id/tv_battery_esidual_capacity_value"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="24dip"
+                        android:drawableLeft="@drawable/ico_dianliang"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/battery_esidual_capacity_text_color"
+                          android:visibility="gone"
+                        android:textSize="24sp" />
+
+                    <TextView
+                        style="@style/realtime_monitor_text_style"
+                        android:layout_marginTop="10dip"
+                          android:visibility="gone"
+                        android:text="@string/capacity" />
+                    <TextView
+                        android:id="@+id/tv_battery_temperature_value"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="24dip"
+                        android:drawableLeft="@drawable/ico_wendu"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/battery_temperature_text_color"
+                        android:visibility="gone"
+                        android:textSize="24sp" />
+
+                    <TextView
+                        style="@style/realtime_monitor_text_style"
+                        android:layout_marginTop="9dip"
+                          android:visibility="gone"
+                        android:text="@string/temperature" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View style="@style/realtime_monitor_horizontal_line_style" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dip"
+                android:layout_marginRight="22dip"
+                android:layout_marginTop="12dip" >
+
+                <TextView
+                    android:id="@+id/tv_battery_charging_state_value"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:drawableLeft="@drawable/ico_chongdianzhong"
+                    android:drawablePadding="6dip"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/battery_charging_state_text_color"
+                    android:textSize="10sp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_marginTop="8dip"
+            android:background="@drawable/bg_fuzai"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dip"
+                android:layout_marginLeft="25dip"
+                android:layout_marginRight="24dip"
+                android:layout_marginTop="12dip" >
+
+                <TextView
+                    android:id="@+id/tv_load"
+                    style="@style/realtime_monitor_text_style"
+                    android:layout_centerVertical="true"
+                    android:drawableLeft="@drawable/ico_fuzai"
+                    android:drawablePadding="8dip"
+                    android:gravity="center_vertical"
+                    android:text="@string/load" />
+                
+
+                <com.wcsmobile.widget.switchbutton.SwitchButton
+                    android:id="@+id/sb_load_switch_status"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="21dip"
+                    android:layout_toRightOf="@id/tv_load"
+                    app:kswBackDrawable="@drawable/bg_swich_button_selector"
+                    app:kswThumbDrawable="@drawable/btn_switch"
+                    app:kswThumbMarginBottom="-6dp"
+                    app:kswThumbMarginLeft="-4dp"
+                    app:kswThumbMarginRight="-4dp"
+                    app:kswThumbMarginTop="-2dp" />
+
+                <TextView
+                    android:id="@+id/tv_load_state_value"
+                    style="@style/realtime_monitor_text_style"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true" />
+
+                <TextView
+                    style="@style/realtime_monitor_text_style"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="8dip"
+                    android:layout_toLeftOf="@id/tv_load_state_value"
+                    android:text="@string/state_colon" />
+            </RelativeLayout>
+
+            <View style="@style/realtime_monitor_horizontal_line_style" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        style="@style/realtime_monitor_text_style"
+                        android:drawableLeft="@drawable/ico_dianya"
+                        android:drawablePadding="7dip"
+                        android:gravity="center_vertical"
+                        android:text="@string/voltage" />
+
+                    <TextView
+                        android:id="@+id/tv_load_voltage_value"
+                        style="@style/realtime_monitor_text_value_style"
+                        android:layout_marginTop="9dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        style="@style/realtime_monitor_text_style"
+                        android:drawableLeft="@drawable/ico_dianliu"
+                        android:drawablePadding="7dip"
+                        android:gravity="center_vertical"
+                        android:text="@string/electricity_load" />
+
+                    <TextView
+                        android:id="@+id/tv_load_electricity_value"
+                        style="@style/realtime_monitor_text_value_style"
+                        android:layout_marginTop="10dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        style="@style/realtime_monitor_text_style"
+                        android:drawableLeft="@drawable/ico_gonglv"
+                        android:drawablePadding="6dip"
+                        android:gravity="center_vertical"
+                        android:text="@string/load_power" />
+
+                    <TextView
+                        android:id="@+id/tv_load_power_value"
+                        style="@style/realtime_monitor_text_value_style"
+                        android:layout_marginTop="10dip" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dash="http://schemas.android.com/apk/res/com.wcsmobile"
+    android:id="@+id/scrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/fragment_background"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16.0dp"
+            android:layout_marginRight="16.0dp"
+            android:layout_marginTop="14.0dp"
+            android:background="@color/fragment_background"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/fragment_background"
+                android:orientation="horizontal" >
+
+                <com.wcsmobile.widget.LargeTouchableAreasImageButton
+                    android:id="@+id/btnLastDay"
+                    android:layout_width="18.0dp"
+                    android:layout_height="18.0dp"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/btn_last_day_drawable"
+                    dash:addition="30dp"
+                    dash:additionRight="50dp" />
+
+                <TextView
+                    style="@style/historical_layout_text_title_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5.0dp"
+                    android:text="@string/last_day" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvDateTime"
+                style="@style/historical_data_layout_text_title_bold_center_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="2015/09/02" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/fragment_background"
+                android:orientation="horizontal" >
+
+                <TextView
+                    style="@style/historical_layout_text_title_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5.0dp"
+                    android:text="@string/next_day" />
+
+                <com.wcsmobile.widget.LargeTouchableAreasImageButton
+                    android:id="@+id/btnNextDay"
+                    android:layout_width="18.0dp"
+                    android:layout_height="18.0dp"
+                    android:background="@null"
+                    android:clickable="true"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/btn_next_day_drawable"
+                    dash:addition="30dp"
+                    dash:additionLeft="50dp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/current_power_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dp"
+            android:layout_marginRight="10.0dp"
+            android:layout_marginTop="8.0dp"
+            android:background="@drawable/layout_selector"
+            android:clickable="true"
+            android:foreground="@drawable/pressed_backgorund_corner"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/imgbtn_current_power"
+                style="@style/historical_right_imagebtn_layout_style" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/alpha"
+                android:orientation="vertical" >
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style" >
+
+                    <TextView
+                        android:id="@+id/tv_day_production_power_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/day_production_power" />
+
+                    <TextView
+                        android:id="@+id/tv_day_production_power_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/init_null_charter" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dip"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="46dp"
+                    android:background="@color/light_gray_line_ba" />
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style" >
+
+                    <TextView
+                        android:id="@+id/tv_day_consumption_power_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/day_consumption_power" />
+
+                    <TextView
+                        android:id="@+id/tv_day_consumption_power_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/day_consumption_power" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="1.0dip"
+                android:layout_height="fill_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@color/light_gray_line_ba" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/current_amp_hour_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dp"
+            android:layout_marginRight="10.0dp"
+            android:layout_marginTop="8.0dp"
+            android:background="@drawable/layout_selector"
+            android:clickable="true"
+            android:foreground="@drawable/pressed_backgorund_corner"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/imgbtn_current_amp_hour"
+                style="@style/historical_right_imagebtn_layout_style" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/alpha"
+                android:orientation="vertical" >
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style" >
+
+                    <TextView
+                        android:id="@+id/tv_day_charge_amp_hour_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/day_charge_amp_hour" />
+
+                    <TextView
+                        android:id="@+id/tv_day_charge_amp_hour_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/day_charge_amp_hour" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dip"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="46dp"
+                    android:visibility="gone"
+                    android:background="@color/light_gray_line_ba" />
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/tv_day_discharge_amp_hour_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                            
+                        android:text="@string/day_discharge_amp_hour" />
+
+                    <TextView
+                        android:id="@+id/tv_day_discharge_amp_hour_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/day_discharge_amp_hour" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="1.0dip"
+                android:layout_height="fill_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@color/light_gray_line_ba" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/current_max_power_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dp"
+            android:layout_marginRight="10.0dp"
+            android:layout_marginTop="8.0dp"
+            android:background="@drawable/layout_selector"
+            android:clickable="true"
+            android:foreground="@drawable/pressed_backgorund_corner"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/imgbtn_current_max_power"
+                style="@style/historical_right_imagebtn_layout_style" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/alpha"
+                android:orientation="vertical" >
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style" >
+
+                    <TextView
+                        android:id="@+id/tv_day_charge_max_power_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/day_charge_max_power" />
+
+                    <TextView
+                        android:id="@+id/tv_day_charge_max_power_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/day_charge_max_power" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dip"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="46dp"
+                    android:visibility="gone"
+                    android:background="@color/light_gray_line_ba" />
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style" 
+                    android:visibility="gone"
+                    >
+				
+                    <TextView
+                        android:id="@+id/tv_day_discharge_max_power_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                         
+                        android:text="@string/day_discharge_max_power" />
+
+                    <TextView
+                        android:id="@+id/tv_day_discharge_max_power_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/day_discharge_max_power" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="1.0dip"
+                android:layout_height="fill_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@color/light_gray_line_ba" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/current_voltage_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dp"
+            android:layout_marginRight="10.0dp"
+            android:layout_marginTop="8.0dp"
+            android:background="@drawable/layout_selector"
+            android:clickable="true"
+            android:foreground="@drawable/pressed_backgorund_corner"
+
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/imgbtn_current_voltage"
+                style="@style/historical_right_imagebtn_layout_style" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/alpha"
+                android:orientation="vertical" >
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style" >
+
+                    <TextView
+                        android:id="@+id/tv_day_battery_min_voltage_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/day_battery_min_voltage" />
+
+                    <TextView
+                        android:id="@+id/tv_day_battery_min_voltage_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/day_battery_min_voltage" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dip"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="46dp"
+                    android:background="@color/light_gray_line_ba" />
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style" >
+
+                    <TextView
+                        android:id="@+id/tv_day_battery_max_voltage_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/day_battery_max_voltage" />
+
+                    <TextView
+                        android:id="@+id/tv_day_battery_max_voltage_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/day_battery_max_voltage" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="1.0dip"
+                android:layout_height="fill_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@color/light_gray_line_ba" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8.0dp"
+            android:layout_marginLeft="10.0dp"
+            android:layout_marginRight="10.0dp"
+            android:layout_marginTop="28.0dp"
+            android:background="@drawable/layout_selector"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/alpha"
+                android:orientation="vertical" >
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style" >
+
+                    <TextView
+                        android:id="@+id/tv_all_run_days_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/all_run_days" />
+
+                    <TextView
+                        android:id="@+id/tv_all_run_days_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/all_run_days" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dip"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@color/light_gray_line_ba" />
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style" 
+                     android:visibility="gone"
+                    >
+
+                    <TextView
+                        android:id="@+id/tv_battery_all_discharge_times_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/battery_all_discharge_times" />
+
+                    <TextView
+                        android:id="@+id/tv_battery_all_discharge_times_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/battery_all_discharge_times" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dip"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                     android:visibility="gone"
+                    android:background="@color/light_gray_line_ba" />
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style" 
+                     android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/tv_battery_charge_full_times_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/battery_charge_full_times" />
+
+                    <TextView
+                        android:id="@+id/tv_battery_charge_full_times_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/battery_charge_full_times" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dip"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                     android:visibility="gone"
+                    android:background="@color/light_gray_line_ba" />
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style"
+                     android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/tv_battery_charge_all_apm_hour_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/battery_charge_all_apm_hour" />
+
+                    <com.wcsmobile.widget.MarqueeText
+                        android:id="@+id/tv_battery_charge_all_apm_hour_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:ellipsize="marquee"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:singleLine="true"
+                        android:text="@string/battery_charge_all_apm_hour" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dip"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                     android:visibility="gone"
+                    android:background="@color/light_gray_line_ba" />
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style"
+                     android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/tv_battery_discharge_all_apm_hour_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/battery_discharge_all_apm_hour" />
+
+                    <com.wcsmobile.widget.MarqueeText
+                        android:id="@+id/tv_battery_discharge_all_apm_hour_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:ellipsize="marquee"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:singleLine="true"
+                        android:text="@string/battery_discharge_all_apm_hour" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dip"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                     android:visibility="gone"
+                    android:background="@color/light_gray_line_ba" />
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style" >
+
+                    <TextView
+                        android:id="@+id/tv_all_production_power_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/all_production_power" />
+
+                    <com.wcsmobile.widget.MarqueeText
+                        android:id="@+id/tv_all_production_power_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:ellipsize="marquee"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:singleLine="true"
+                        android:text="@string/all_production_power" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dip"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:visibility="gone"
+                    android:background="@color/light_gray_line_ba" />
+
+                <LinearLayout style="@style/historical_linear_layout_horizontal_style"
+                    android:visibility="gone"
+                     >
+
+                    <TextView
+                        android:id="@+id/tv_all_consumption_power_title"
+                        style="@style/historical_data_layout_text_title_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="@string/all_consumption_power" />
+
+                    <com.wcsmobile.widget.MarqueeText
+                        android:id="@+id/tv_all_consumption_power_value"
+                        style="@style/historical_data_layout_text_title_left_style"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:ellipsize="marquee"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:singleLine="true"
+                        android:text="@string/all_consumption_power" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="1.0dip"
+                android:layout_height="fill_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@color/light_gray_line_ba" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="180dp"
+            android:background="@color/alpha" />
+    </LinearLayout>
+
+</ScrollView>

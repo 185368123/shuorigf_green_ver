@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "186",
+                        "endColumns": "42",
+                        "endOffsets": "224"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "186",
+                        "endColumns": "42",
+                        "endOffsets": "224"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                }
+            ]
+        }
+    ]
+}

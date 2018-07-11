@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 3.0.1">
+
+    <issue
+        id="ResAuto"
+        severity="Fatal"
+        message="In Gradle projects, always use `http://schemas.android.com/apk/res-auto` for custom attributes"
+        category="Correctness"
+        priority="9"
+        summary="Hardcoded Package in Namespace"
+        explanation="In Gradle projects, the actual package used in the final APK can vary; for example,you can add a `.debug` package suffix in one version and not the other. Therefore, you should **not** hardcode the application package in the resource; instead, use the special namespace `http://schemas.android.com/apk/res-auto` which will cause the tools to figure out the right namespace for the resource regardless of the actual package used during the build."
+        errorLine1="    xmlns:dash=&quot;http://schemas.android.com/apk/res/com.wcsmobile&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="studio">
+        <location
+            file="D:\Android Studio Workspace\shuorigf_green_ver_eclipse\res\layout\activity_historical_data.xml"
+            line="2"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="ResAuto"
+        severity="Fatal"
+        message="In Gradle projects, always use `http://schemas.android.com/apk/res-auto` for custom attributes"
+        category="Correctness"
+        priority="9"
+        summary="Hardcoded Package in Namespace"
+        explanation="In Gradle projects, the actual package used in the final APK can vary; for example,you can add a `.debug` package suffix in one version and not the other. Therefore, you should **not** hardcode the application package in the resource; instead, use the special namespace `http://schemas.android.com/apk/res-auto` which will cause the tools to figure out the right namespace for the resource regardless of the actual package used during the build."
+        errorLine1="    xmlns:peng=&quot;http://schemas.android.com/apk/res/com.wcsmobile&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="studio">
+        <location
+            file="D:\Android Studio Workspace\shuorigf_green_ver_eclipse\res\layout\activity_main.xml"
+            line="3"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="ResAuto"
+        severity="Fatal"
+        message="In Gradle projects, always use `http://schemas.android.com/apk/res-auto` for custom attributes"
+        category="Correctness"
+        priority="9"
+        summary="Hardcoded Package in Namespace"
+        explanation="In Gradle projects, the actual package used in the final APK can vary; for example,you can add a `.debug` package suffix in one version and not the other. Therefore, you should **not** hardcode the application package in the resource; instead, use the special namespace `http://schemas.android.com/apk/res-auto` which will cause the tools to figure out the right namespace for the resource regardless of the actual package used during the build."
+        errorLine1="    xmlns:dash=&quot;http://schemas.android.com/apk/res/com.renogy&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="studio">
+        <location
+            file="D:\Android Studio Workspace\shuorigf_green_ver_eclipse\res\layout\activity_start.xml"
+            line="3"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="ResAuto"
+        severity="Fatal"
+        message="In Gradle projects, always use `http://schemas.android.com/apk/res-auto` for custom attributes"
+        category="Correctness"
+        priority="9"
+        summary="Hardcoded Package in Namespace"
+        explanation="In Gradle projects, the actual package used in the final APK can vary; for example,you can add a `.debug` package suffix in one version and not the other. Therefore, you should **not** hardcode the application package in the resource; instead, use the special namespace `http://schemas.android.com/apk/res-auto` which will cause the tools to figure out the right namespace for the resource regardless of the actual package used during the build."
+        errorLine1="    xmlns:peng=&quot;http://schemas.android.com/apk/res/com.wcsmobile&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="studio">
+        <location
+            file="D:\Android Studio Workspace\shuorigf_green_ver_eclipse\res\layout\fragment_device_info.xml"
+            line="3"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="ResAuto"
+        severity="Fatal"
+        message="In Gradle projects, always use `http://schemas.android.com/apk/res-auto` for custom attributes"
+        category="Correctness"
+        priority="9"
+        summary="Hardcoded Package in Namespace"
+        explanation="In Gradle projects, the actual package used in the final APK can vary; for example,you can add a `.debug` package suffix in one version and not the other. Therefore, you should **not** hardcode the application package in the resource; instead, use the special namespace `http://schemas.android.com/apk/res-auto` which will cause the tools to figure out the right namespace for the resource regardless of the actual package used during the build."
+        errorLine1="    xmlns:dash=&quot;http://schemas.android.com/apk/res/com.wcsmobile&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="studio">
+        <location
+            file="D:\Android Studio Workspace\shuorigf_green_ver_eclipse\res\layout\fragment_historical_data.xml"
+            line="3"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="ResourceType"
+        severity="Fatal"
+        message="Expected resource of type styleable"
+        category="Correctness"
+        priority="7"
+        summary="Wrong Resource Type"
+        explanation="Ensures that resource id&apos;s passed to APIs are of the right type; for example, calling `Resources.getColor(R.string.name)` is wrong."
+        errorLine1="                mNavBarAvailable = a.getBoolean(1, false);"
+        errorLine2="                                                ~">
+        <location
+            file="D:\Android Studio Workspace\shuorigf_green_ver_eclipse\src\com\wcsmobile\view\SystemBarTintManager.java"
+            line="99"
+            column="49"/>
+    </issue>
+
+</issues>

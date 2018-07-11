@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:peng="http://schemas.android.com/apk/res/com.wcsmobile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fragment_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@color/app_background"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginLeft="16.0dp"
+            android:layout_marginRight="16.0dp"
+            android:background="@color/app_background"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_device_id_title"
+                style="@style/device_info_layout_left_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="@string/device_id" />
+
+            <TextView
+                android:id="@+id/tv_device_id_value"
+                style="@style/device_info_layout_right_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="@string/device_id" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@color/app_background"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginLeft="10.0dp"
+            android:layout_marginRight="10.0dp"
+            android:background="@color/app_background"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_device_type_title"
+                style="@style/device_info_layout_left_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="@string/device_type" />
+
+            <TextView
+                android:id="@+id/tv_device_type_value"
+                style="@style/device_info_layout_right_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="@string/device_type" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/light_gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginLeft="10.0dp"
+            android:layout_marginRight="10.0dp"
+            android:background="@color/app_background"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_device_version_title"
+                style="@style/device_info_layout_left_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="@string/device_version" />
+
+            <TextView
+                android:id="@+id/tv_device_version_value"
+                style="@style/device_info_layout_right_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="@string/device_version" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/light_gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginLeft="10.0dp"
+            android:layout_marginRight="10.0dp"
+            android:background="@color/app_background"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_device_sn_code_title"
+                style="@style/device_info_layout_left_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="@string/device_sn_code" />
+
+            <TextView
+                android:id="@+id/tv_device_sn_code_value"
+                style="@style/device_info_layout_right_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="@string/device_sn_code" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/light_gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginLeft="10.0dp"
+            android:layout_marginRight="10.0dp"
+            android:background="@color/app_background"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_device_connect_state_title"
+                style="@style/device_info_layout_left_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="@string/device_connect_state" />
+
+            <TextView
+                android:id="@+id/tv_device_connect_state_value"
+                style="@style/device_info_layout_right_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="@string/device_disconnected" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/light_gray"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginLeft="10.0dp"
+            android:layout_marginRight="10.0dp"
+            android:background="@color/app_background"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/tv_device_status_title"
+                style="@style/device_info_layout_left_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="@string/device_status" />
+
+            <CheckBox
+                android:id="@+id/switch_device_status"
+                android:layout_width="42dp"
+                android:layout_height="18dp"
+                android:layout_gravity="center"
+                android:background="@drawable/switch_device_status_drawable"
+                android:button="@null"
+                android:checked="true" />
+        </LinearLayout>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/light_gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginLeft="10.0dp"
+            android:layout_marginRight="10.0dp"
+            android:background="@color/app_background"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_device_name_title"
+                style="@style/device_info_layout_left_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="@string/device_name" />
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1"/>
+            <TextView
+                android:id="@+id/tv_device_name_value"
+                style="@style/device_info_layout_right_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="@string/init_null_charter" />
+
+            <TextView
+                android:paddingLeft="10dp"
+                android:id="@+id/tv_device_name_change"
+                style="@style/device_info_layout_right_text_style"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:textColor="@color/lightBlueColor"
+                android:text="@string/change_device_name" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    
+        <LinearLayout
+        android:id="@+id/recovery_device_btn_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@color/app_background"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginLeft="0.0dp"
+            android:layout_marginRight="0.0dp"
+            android:background="@color/app_background"
+            android:orientation="horizontal" >
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/app_background" />
+
+            <com.wcsmobile.widget.PengButton
+                android:id="@+id/btn_recovery_device"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:background="@color/app_background"
+                android:gravity="center"
+                android:text="@string/recovery_device"
+                android:textColor="@color/light_yellow"
+                android:textSize="16sp"
+                peng:peng_drawableLeft="@null"
+                peng:peng_drawableLeftHeight="8dp"
+                peng:peng_drawableLeftWith="8dp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/app_background" />
+        </LinearLayout>
+    </LinearLayout>
+    
+    
+    <LinearLayout
+        android:id="@+id/disconnect_device_btn_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@color/app_background"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginLeft="10.0dp"
+            android:layout_marginRight="10.0dp"
+            android:background="@color/app_background"
+            android:orientation="horizontal" >
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/app_background" />
+
+            <com.wcsmobile.widget.PengButton
+                android:id="@+id/btn_disconnected_device"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:background="@color/app_background"
+                android:gravity="center"
+                android:text="@string/disconnected_device"
+                android:textColor="@color/light_yellow"
+                android:textSize="16sp"
+                peng:peng_drawableLeft="@null"
+                peng:peng_drawableLeftHeight="8dp"
+                peng:peng_drawableLeftWith="8dp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/app_background" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@color/app_background"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginLeft="10.0dp"
+            android:layout_marginRight="10.0dp"
+            android:background="@color/app_background"
+            android:orientation="horizontal" >
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/app_background" />
+
+            <com.wcsmobile.widget.PengButton
+                android:id="@+id/btn_scan_device"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:background="@color/app_background"
+                android:gravity="center"
+                android:text="@string/scan_device"
+                android:textColor="@color/light_yellow"
+                android:textSize="16sp"
+                peng:peng_drawableLeft="@drawable/icon_search"
+                peng:peng_drawableLeftHeight="8dp"
+                peng:peng_drawableLeftWith="8dp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/app_background" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+jarsigner -verbose -keystore solarappkeystore -signedjar sig_SolarAPP.apk SolarAPP.apk 'solar' 
+
+123456
+
+
+
+ '/work/Tools/adt-bundle-linux-x86_64-20140702/eclipse_sdk/build-tools/24.0.1/zipalign' -f -v 4 sig_SolarAPP.apk sig_SolarAPP_cmd_zip.apk
+
+/opt/adt-bundle-linux-x86_64-20140702/sdk/build-tools/23.0.1/zipalign -f -v 4 sig_SolarAPP.apk sig_SolarAPP_cmd_zip.apk
+
+
+eclipse sig

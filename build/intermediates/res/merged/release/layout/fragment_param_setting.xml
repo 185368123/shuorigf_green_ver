@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:segmentedgroup="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fragment_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/fragment_background"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="12.0dp"
+            android:background="@color/fragment_background"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btn_read"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="30dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/btn_affirm_drawable"
+                android:text="@string/readin"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/btn_setting"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="50dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/btn_affirm_drawable"
+                android:text="@string/setting"
+                android:textColor="@color/white" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.wcsmobile.widget.SegmentedGroup
+        android:id="@+id/segment_Group"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:layout_marginBottom="10.0dip"
+        android:layout_marginLeft="14.0dip"
+        android:layout_marginRight="14.0dip"
+        android:layout_marginTop="12.0dip"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        segmentedgroup:sc_border_width="2dp"
+        segmentedgroup:sc_corner_radius="5dp"
+	 >
+
+        <RadioButton
+            android:id="@+id/rdbtn_battery_parameters"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="#ffe4e402"
+            android:button="@null"
+            android:gravity="center"
+            android:minHeight="30.0dip"
+            android:minWidth="280.0dip"
+            android:text="@string/battery_parameters"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@color/radio_colors" />
+
+        <RadioButton
+            android:id="@+id/rdbtn_load_parameters"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="#ffe4e402"
+            android:button="@null"
+            android:gravity="center"
+            android:minHeight="30.0dip"
+            android:minWidth="280.0dip"
+            android:text="@string/load_parameters"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@color/radio_colors" />
+    </com.wcsmobile.widget.SegmentedGroup>
+
+    <ViewFlipper
+        android:id="@+id/viewFlipper"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+</LinearLayout>

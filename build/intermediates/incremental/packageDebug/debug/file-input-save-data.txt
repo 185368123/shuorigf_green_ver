@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Jul 10 15:34:03 CST 2018
+1.base=D\:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.path=litepal.xml

@@ -1,0 +1,384 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme" parent="android:Theme"></style>
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="PageTitle">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">#ff363636</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+    <style name="light_tab">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingTop">1dip</item>
+        <item name="android:paddingBottom">3dip</item>
+        <item name="android:background">@drawable/bottombar_itembg_selector</item>
+        <item name="android:textColor">@color/bottombar_textcolor_selector</item>
+        <item name="android:button">@null</item>
+    </style>
+
+    <style name="Theme.Transparent">
+
+        <!-- 设置允许窗口半透明 -->
+
+        <item name="android:windowIsTranslucent">true</item>
+
+        <!-- 引用Android系统的动画半透明样式 -->
+
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+
+        <!-- 设定窗口背景颜色 -->
+
+        <item name="android:windowBackground">@color/transparent_background</item>
+
+        <!-- 隐藏窗口标题栏 -->
+
+        <item name="android:windowNoTitle">true</item>
+
+        <!-- 设定文字前景色 -->
+
+        <item name="android:colorForeground">#fff</item>
+    </style>
+
+    <style name="battery_linear_layout_horizontal_style">
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">27.0dip</item>
+        <item name="android:minHeight">25.0dip</item>
+    </style>
+
+    <style name="historical_linear_layout_horizontal_style">
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">25.0dip</item>
+    </style>
+
+    <style name="battery_layout_text_title_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/realtime_battery_layout_text_title</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingLeft">39.0dip</item>
+    </style>
+
+    <style name="device_info_layout_left_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="device_info_layout_right_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#9d9d9d</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="historical_data_layout_text_title_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">36.0dip</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingTop">0.0dip</item>
+    </style>
+
+    <style name="historicalchart_layout_text_title_style">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">#e8160c</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="historical_data_layout_text_title_left_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/light_yellow1</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingRight">66.0dip</item>
+    </style>
+
+    <style name="historical_layout_text_title_style">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">#ff555555</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="battery_layout_text_title_bold_style">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/realtime_parameter_title</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">14.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+    </style>
+
+    <style name="param_set_layout_text_title_bold_style">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="historical_data_layout_text_title_bold_center_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">#1c1c1c</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="battery_layout_text_content_style">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">#fff18c00</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">68dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+    </style>
+
+    <style name="item_popup_layout_text_content_style">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">1.0dip</item>
+        <item name="android:paddingTop">1.0dip</item>
+        <item name="android:paddingRight">1.0dip</item>
+        <item name="android:paddingBottom">1.0dip</item>
+    </style>
+
+    <style name="app_text_title_bold_style">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="item_device_info_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#1c1c1c</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">1.0dip</item>
+        <item name="android:paddingTop">1.0dip</item>
+    </style>
+
+    <style name="historicalchart_text_title_style">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="historicalchart_text_current_value_style">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="historicalchart_text_min_value_title_style">
+        <item name="android:textSize">9sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="historicalchart_text_min_value_value_style">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="realtime_left_image_layout_style">
+        <item name="android:layout_width">21dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">25dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <style name="historical_right_imagebtn_layout_style">
+        <item name="android:layout_width">22dp</item>
+        <item name="android:layout_height">22dp</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:layout_gravity">right|center_vertical</item>
+        <item name="android:background">@drawable/btn_historical_into_chart</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+         <item name="android:clickable">false</item>
+    </style>
+
+    <style name="scan_device_dialog_title_style">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/light_yellow</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">left</item>
+    </style>
+	<style name="more_new_soft_version_info_style">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/light_yellow</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    <style name="tv_parameter_set_param_title_style">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#9d9d9d</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="tv_parameter_set_param_name_title_style">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">0dp</item>
+    </style>
+
+    <style name="tv_parameter_set_param_value_title_style">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/light_yellow</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">60dp</item>
+        <item name="android:minHeight">26dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:inputType">numberDecimal</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="tv_parameter_set_param_value_title_right_style">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/light_yellow</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:inputType">numberDecimal</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="tv_parameter_set_param_name_title_left_style">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">26dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="list_item__info_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#777777</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">1.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+    </style>
+    <style name="tabbar_radio_button_style">
+        <item name="android:button">@null</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="realtime_monitor_text_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+    </style>
+<style name="realtime_monitor_ex_text_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+    </style>
+    <style name="realtime_monitor_text_value_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#4c4c4c</item>
+    </style>
+    <style name="realtime_monitor_horizontal_line_style">
+        <item name="android:layout_height">1dip</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">#cccccc</item>
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:layout_marginRight">10dip</item>
+    </style>
+    
+
+    
+</resources>

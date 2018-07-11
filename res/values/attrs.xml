@@ -1,0 +1,62 @@
+<?xml version= "1.0" encoding= "utf-8"?>
+<resources>
+
+    <declare-styleable name="dashedline">
+        <attr name="lineColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="PengRadioButton">
+
+        <!-- 设置top图片的宽度 -->
+        <attr name="peng_drawableTopWith" format="dimension" />
+        <!-- 设置top图片的高度 -->
+        <attr name="peng_drawableTopHeight" format="dimension" />
+        <attr name="peng_drawableBottomWith" format="dimension" />
+        <attr name="peng_drawableBottomHeight" format="dimension" />
+        <attr name="peng_drawableRightWith" format="dimension" />
+        <attr name="peng_drawableRightHeight" format="dimension" />
+        <attr name="peng_drawableLeftWith" format="dimension" />
+        <attr name="peng_drawableLeftHeight" format="dimension" />
+        <!-- 设置top的图片资源 -->
+        <attr name="peng_drawableTop" format="reference" />
+        <attr name="peng_drawableBottom" format="reference" />
+        <attr name="peng_drawableRight" format="reference" />
+        <attr name="peng_drawableLeft" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="SegmentedGroup">
+        <attr name="sc_corner_radius" format="dimension" />
+        <attr name="sc_border_width" format="dimension" />
+        <attr name="sc_tint_color" format="color" />
+        <attr name="sc_checked_text_color" format="color" />
+    </declare-styleable>
+    <declare-styleable name="LargeTouchableAreaView">
+        <attr name="addition" format="dimension" />
+        <attr name="additionBottom" format="dimension" />
+        <attr name="additionLeft" format="dimension" />
+        <attr name="additionRight" format="dimension" />
+        <attr name="additionTop" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="SwitchButton">
+        <attr name="kswThumbDrawable" format="reference"/>
+        <attr name="kswThumbColor" format="color|reference"/>
+        <attr name="kswThumbMargin" format="dimension|reference"/>
+        <attr name="kswThumbMarginTop" format="dimension|reference"/>
+        <attr name="kswThumbMarginBottom" format="dimension|reference"/>
+        <attr name="kswThumbMarginLeft" format="dimension|reference"/>
+        <attr name="kswThumbMarginRight" format="dimension|reference"/>
+        <attr name="kswThumbWidth" format="dimension|reference"/>
+        <attr name="kswThumbHeight" format="dimension|reference"/>
+        <attr name="kswThumbRadius" format="dimension|reference"/>
+        <attr name="kswBackRadius" format="dimension|reference"/>
+        <attr name="kswBackDrawable" format="reference"/>
+        <attr name="kswBackColor" format="color|reference"/>
+        <attr name="kswFadeBack" format="boolean"/>
+        <attr name="kswBackMeasureRatio" format="float"/>
+        <attr name="kswAnimationDuration" format="integer"/>
+        <attr name="kswTintColor" format="color|reference"/>
+        <attr name="kswTextOn" format="string"/>
+        <attr name="kswTextOff" format="string"/>
+        <attr name="kswTextMarginH" format="dimension"/>
+    </declare-styleable>
+
+</resources>

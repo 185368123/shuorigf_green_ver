@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="device_name" ></dbname>
+
+    <version value="1" ></version>
+    <list>
+        <mapping class="com.wcsmobile.bean.NameSaveBean"></mapping>
+    </list>
+</litepal>

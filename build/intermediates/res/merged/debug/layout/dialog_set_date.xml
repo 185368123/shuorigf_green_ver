@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/alpha"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="10.0dip"
+        android:background="@drawable/bg_style_corner_popwin"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="15.0dip"
+        android:paddingLeft="10.0dip"
+        android:paddingRight="10.0dip"
+        android:paddingTop="15.0dip" >
+
+        <LinearLayout
+            android:id="@+id/layout_picker"
+            android:layout_width="fill_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/bg_style_corner_popwin"
+            android:orientation="horizontal" >
+
+            <com.wcsmobile.widget.wheelview.WheelView
+                android:id="@+id/wvYear"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1" />
+            <!--
+            <View
+                android:layout_width="1dp"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="1dp"
+                android:background="#99AAAAAA" />
+            -->
+
+            <com.wcsmobile.widget.wheelview.WheelView
+                android:id="@+id/wvMonth"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10.0dip"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/btnCancel"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/btn_cancel_drawable"
+                android:minWidth="80.0dip"
+                android:padding="8.0dip"
+                android:text="@string/cancel"
+				android:textColor="@color/cancel_text_color"
+                
+                android:textSize="16.0sp" />
+
+            <Button
+                android:id="@+id/btnConfirm"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/btn_affirm_drawable"
+                android:minWidth="80.0dip"
+                android:padding="8.0dip"
+                android:text="@string/confirm"
+                android:textColor="@color/white"
+                android:textSize="16.0sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

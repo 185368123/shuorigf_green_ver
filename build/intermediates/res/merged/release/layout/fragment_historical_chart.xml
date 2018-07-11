@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+ 
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:layout_weight="1.0"
+        android:background="@drawable/icon_shade"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginRight="10.0dip"
+            android:layout_marginTop="8dp"
+            android:background="@color/alpha"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/alpha"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_up_historicalchart_title"
+                    style="@style/historicalchart_text_title_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/day_battery_min_voltage" />
+
+                <TextView
+                    android:id="@+id/tv_up_historicalchart_current_value"
+                    style="@style/historicalchart_text_current_value_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/init_null_charter" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="2dp"
+                android:layout_marginTop="2dp"
+                android:background="@color/white" />
+
+            <TextView
+                android:id="@+id/tv_up_historicalchart_max_value"
+                style="@style/historicalchart_text_current_value_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/day_production_power" 
+                android:visibility="gone"/>
+        </LinearLayout>
+
+        <com.github.mikephil.charting.charts.LineChart
+            android:id="@+id/chart1"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@color/alpha" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="26dp"
+            android:layout_marginRight="26dp"
+            android:background="@color/alpha"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@color/alpha"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_up_historicalchart_min_value_title"
+                    style="@style/historicalchart_text_min_value_title_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/min_value" />
+
+                <TextView
+                    android:id="@+id/tv_up_historicalchart_min_value_value"
+                    style="@style/historicalchart_text_min_value_value_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/init_null_charter" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/alpha"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_up_historicalchart_ave_value_title"
+                    style="@style/historicalchart_text_min_value_title_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ave_value" />
+
+                <TextView
+                    android:id="@+id/tv_up_historicalchart_ave_value_value"
+                    style="@style/historicalchart_text_min_value_value_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/init_null_charter" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@color/alpha"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_up_historicalchart_max_value_title"
+                    style="@style/historicalchart_text_min_value_title_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/max_value" />
+
+                <TextView
+                    android:id="@+id/tv_up_historicalchart_max_value_value"
+                    style="@style/historicalchart_text_min_value_value_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/init_null_charter" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:layout_marginTop="10.0dip"
+        android:layout_weight="1.0"
+         android:id="@+id/tv_down_historicalchart_layout"
+        android:background="@drawable/icon_shade"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginRight="10.0dip"
+            android:layout_marginTop="8dp"
+            android:background="@color/alpha"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/alpha"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_down_historicalchart_title"
+                    style="@style/historicalchart_text_title_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/day_battery_max_voltage" />
+
+                <TextView
+                    android:id="@+id/tv_down_historicalchart_current_value"
+                    style="@style/historicalchart_text_current_value_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/init_null_charter" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="2dp"
+                android:layout_marginTop="2dp"
+                android:background="@color/white" />
+
+            <TextView
+                android:id="@+id/tv_down_historicalchart_max_value"
+                style="@style/historicalchart_text_current_value_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                 android:visibility="gone"
+                android:text="@string/day_production_power" />
+        </LinearLayout>
+
+        <com.github.mikephil.charting.charts.LineChart
+            android:id="@+id/chart2"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@color/alpha" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="26dp"
+            android:layout_marginRight="26dp"
+            android:background="@color/alpha"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@color/alpha"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_down_historicalchart_min_value_title"
+                    style="@style/historicalchart_text_min_value_title_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/min_value" />
+
+                <TextView
+                    android:id="@+id/tv_down_historicalchart_min_value_value"
+                    style="@style/historicalchart_text_min_value_value_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/init_null_charter" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/alpha"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_down_historicalchart_ave_value_title"
+                    style="@style/historicalchart_text_min_value_title_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ave_value" />
+
+                <TextView
+                    android:id="@+id/tv_down_historicalchart_ave_value_value"
+                    style="@style/historicalchart_text_min_value_value_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/init_null_charter" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@color/alpha"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_down_historicalchart_max_value_title"
+                    style="@style/historicalchart_text_min_value_title_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/max_value" />
+
+                <TextView
+                    android:id="@+id/tv_down_historicalchart_max_value_value"
+                    style="@style/historicalchart_text_min_value_value_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/init_null_charter" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

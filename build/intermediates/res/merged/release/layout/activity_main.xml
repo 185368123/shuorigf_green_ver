@@ -1,0 +1,108 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:peng="http://schemas.android.com/apk/res/com.wcsmobile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50.0dip"
+            android:background="@color/light_yellow"
+            android:orientation="horizontal" >
+
+            <View
+                android:layout_width="42.0dip"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/tvTitle"
+                style="@style/app_text_title_bold_style"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:paddingBottom="12.0dip"
+                android:text="@string/real_time_monitoring" />
+
+            <ImageButton
+                android:id="@+id/btnAdd"
+                android:layout_width="22.0dip"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/f_btn_style_head"
+                android:clickable="true"
+                android:paddingBottom="6dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ico_more_selector" />
+        </LinearLayout>
+        <!--
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="1.0dip"
+            android:scaleType="fitXY"
+            android:src="@drawable/color_line" />
+        -->
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="1" />
+
+    <RadioGroup
+        android:id="@+id/rg_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@drawable/f_btn_style_head"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <com.wcsmobile.widget.PengRadioButton
+            android:id="@+id/rb_monitoring"
+            style="@style/light_tab"
+            android:background="@drawable/f_btn_style_head"
+            android:text="@string/real_time_monitoring"
+            peng:peng_drawableTop="@drawable/real_time_monitoring_selector"
+            peng:peng_drawableTopHeight="10dp"
+            peng:peng_drawableTopWith="10dp" />
+
+        <com.wcsmobile.widget.PengRadioButton
+            android:id="@+id/rb_historical_data"
+            style="@style/light_tab"
+            android:background="@drawable/f_btn_style_head"
+            android:text="@string/historical_data"
+            peng:peng_drawableTop="@drawable/historical_data_selector"
+            peng:peng_drawableTopHeight="10dp"
+            peng:peng_drawableTopWith="10dp" />
+
+        <com.wcsmobile.widget.PengRadioButton
+            android:id="@+id/rb_param_set"
+            style="@style/light_tab"
+            android:background="@drawable/f_btn_style_head"
+            android:text="@string/param_setting"
+            peng:peng_drawableTop="@drawable/param_setting_selector"
+            peng:peng_drawableTopHeight="10dp"
+            peng:peng_drawableTopWith="10dp" />
+
+        <com.wcsmobile.widget.PengRadioButton
+            android:id="@+id/rb_devinfo"
+            style="@style/light_tab"
+            android:background="@drawable/f_btn_style_head"
+            android:text="@string/device_info"
+            peng:peng_drawableTop="@drawable/device_info_selector"
+            peng:peng_drawableTopHeight="10dp"
+            peng:peng_drawableTopWith="10dp" />
+    </RadioGroup>
+
+</LinearLayout>
