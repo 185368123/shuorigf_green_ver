@@ -435,7 +435,6 @@ public class MainActivity extends BaseActivity implements RadioGroup.OnCheckedCh
 		mAddDeviceDialog = new AddDeviceDialog(MainActivity.this,mBleDevices);
 		mShowSoftVersionInfoDialog = new ShowSoftVersionInfoDialog(MainActivity.this);
 		mAddDeviceDialog.SetOnConfirmInterface(new OnConfirmInterface(){
-
 			@Override
 			public void doConfirm(BleDeviceInfo info) {
 				// TODO Auto-generated method stub

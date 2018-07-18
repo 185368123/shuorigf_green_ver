@@ -222,6 +222,7 @@
                 style="@style/device_info_layout_right_text_style"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:maxLines="1"
                 android:text="@string/init_null_charter" />
 
             <TextView

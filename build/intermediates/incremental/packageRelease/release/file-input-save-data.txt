@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jul 11 13:56:31 CST 2018
+#Thu Jul 12 09:20:51 CST 2018
 1.base=D\:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\assets\\release
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
