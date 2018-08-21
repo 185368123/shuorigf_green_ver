@@ -30,7 +30,7 @@ public class InputDialog extends Dialog {
     private OnSetName setName;
 
     public interface OnSetName {
-        void onSucess();
+        void onSucess(String s);
 
         void onFaile();
     }
@@ -65,7 +65,7 @@ public class InputDialog extends Dialog {
         setContentView(view);
         ((Button) (view.findViewById(R.id.btn_dialog_input_cancle))).setOnClickListener(clickListener);
         ((Button) (view.findViewById(R.id.btn_dialog_input_confirm))).setOnClickListener(clickListener);
-        et = view.findViewById(R.id.et_dialog_input);
+        et = (EditText) view.findViewById(R.id.et_dialog_input);
         et.setText(DBHelp.getInstance().getDeviceName(name));
         et.setSelection(DBHelp.getInstance().getDeviceName(name).length());
         et.clearFocus();
@@ -84,11 +84,14 @@ public class InputDialog extends Dialog {
         public void onClick(View v) {
             switch (v.getId()) {
                 case R.id.btn_dialog_input_cancle:
+                    setName.onFaile();
                     dismiss();
                     break;
                 case R.id.btn_dialog_input_confirm:
                     if (!TextUtils.isEmpty(et.getText())) {
-                        List<NameSaveBean> newsList = DataSupport.where("name_new=?", et.getText().toString()).find(NameSaveBean.class);
+                        setName.onSucess(et.getText().toString());
+                        dismiss();
+                      /*  List<NameSaveBean> newsList = DataSupport.where("name_new=?", et.getText().toString()).find(NameSaveBean.class);
                         if (newsList != null && newsList.size() > 0) {
                             Toast.makeText(getContext(), R.string.device_name_exists, Toast.LENGTH_LONG).show();
                         } else {
@@ -99,12 +102,12 @@ public class InputDialog extends Dialog {
                             }
                             dismiss();
                         }
-
+*/
                     } else {
-                        Toast.makeText(getContext(), R.string.device_name_set_failed, Toast.LENGTH_LONG).show();
+                        /*Toast.makeText(getContext(), R.string.device_name_set_failed, Toast.LENGTH_LONG).show();
                         if (setName != null) {
                             setName.onFaile();
-                        }
+                        }*/
                     }
                     break;
                 default:

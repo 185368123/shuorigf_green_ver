@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\et_round_bg.xml",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-mdpi\\et_round_bg.xml"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-mdpi\\ic_launcher.png"
     },
@@ -10,6 +14,10 @@
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\et_round_bg.xml",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-mdpi\\et_round_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\et_round_bg.xml",

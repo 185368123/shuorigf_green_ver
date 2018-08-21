@@ -12,16 +12,24 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_xudianchi.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_gonglv.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_gonglv.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_chongidancuowu.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-xhdpi\\ico_chongidancuowu.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_taiyangnengdianchiban.png",
+        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-xhdpi\\bg_taiyangnengdianchiban.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_fuzai.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-xhdpi\\ico_fuzai.png"
     },
     {
-        "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_taiyangnengdianchiban.png",
-        "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-xhdpi\\bg_taiyangnengdianchiban.png"
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_navigation_bar.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\bg_navigation_bar.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_lishishuju_nor.png",
@@ -32,12 +40,24 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_chongidancuowu.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_more_nor.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_more_nor.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_wendu.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-xhdpi\\ico_wendu.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_more_sel.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_more_sel.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_weichongdian.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_weichongdian.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_tabbar.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\bg_tabbar.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_lishishuju_sel.png",
@@ -48,8 +68,20 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_canshushezhi_nor.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_taiyangnengdianchiban.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\bg_taiyangnengdianchiban.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_chongdianzhong.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_chongdianzhong.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_shishijiankong_sel.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-xhdpi\\ico_shishijiankong_sel.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_dianliang.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_dianliang.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_more_sel.png",
@@ -58,6 +90,10 @@
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_canshushezhi_nor.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_canshushezhi_nor.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_taiyangnengban.png",
@@ -76,12 +112,36 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\bg_fuzai.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_fuzai.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_fuzai.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_wendu.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_wendu.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_shishijiankong_sel.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_shishijiankong_sel.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_dianliu.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_dianliu.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_dianya.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_dianya.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_switch.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\btn_switch.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_dianliang.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_dianliang.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_switch_off.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\bg_switch_off.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_lishishuju_nor.png",
@@ -96,6 +156,10 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_xudianchi.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_xudianchi.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_dianya.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_dianya.png"
     },
@@ -106,6 +170,10 @@
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_weichongdian.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-xhdpi\\ico_weichongdian.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_shishijiankong_nor.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_shishijiankong_nor.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_switch.png",
@@ -136,12 +204,32 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-xhdpi\\ico_shishijiankong_nor.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_canshushezhi_sel.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_canshushezhi_sel.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_xudianchi.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-xhdpi\\ico_xudianchi.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_xudianchi.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\bg_xudianchi.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_weichongdian.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_weichongdian.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_shebeixinxi_nor.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-xhdpi\\ico_shebeixinxi_nor.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_taiyangnengban.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_taiyangnengban.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_shebeixinxi_sel.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_shebeixinxi_sel.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_shebeixinxi_sel.png",
@@ -150,6 +238,10 @@
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_tabbar.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\bg_tabbar.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_chongidancuowu.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_chongidancuowu.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_chongdianzhong.png",
@@ -164,8 +256,20 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_more_nor.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_shebeixinxi_nor.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_shebeixinxi_nor.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_wendu.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_wendu.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_lishishuju_nor.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_lishishuju_nor.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_lishishuju_sel.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_lishishuju_sel.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_canshushezhi_sel.png",
@@ -188,6 +292,18 @@
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_dianliu.png"
     },
     {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_switch.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\bg_switch.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_fuzai.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\bg_fuzai.png"
+    },
+    {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_more_sel.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-xhdpi\\ico_more_sel.png"
     },
@@ -198,6 +314,10 @@
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_navigation_bar.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\drawable-xhdpi\\bg_navigation_bar.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_shishijiankong_sel.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\ico_shishijiankong_sel.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_dianliu.png",
@@ -238,6 +358,10 @@
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_switch.png",
         "source": "D:\\Android Studio Workspace\\shuorigf_green_ver\\res\\drawable-xhdpi\\btn_switch.png"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_switch_on.png",
+        "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\drawable-xhdpi\\bg_switch_on.png"
     },
     {
         "merged": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_lishishuju_sel.png",

@@ -3,33 +3,33 @@
 
     <item
         is-multidex="false"
-        jar="D:\Android Studio Workspace\shuorigf_green_ver\libs\android-support-v4.jar"
-        jumboMode="false"
-        min-sdk-version="18"
-        optimize="true"
-        revision="26.0.2"
-        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
-        <dex dex="D:\Android Studio Workspace\shuorigf_green_ver\build\intermediates\transforms\preDex\release\6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Android Studio Workspace\shuorigf_green_ver\libs\mpchartlib.jar"
-        jumboMode="false"
-        min-sdk-version="18"
-        optimize="true"
-        revision="26.0.2"
-        sha1="1a2ad7aa25101e39abf7152cb12986264d116c53">
-        <dex dex="D:\Android Studio Workspace\shuorigf_green_ver\build\intermediates\transforms\preDex\release\7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Android Studio Workspace\shuorigf_green_ver\libs\litepal-2.0.0-src.jar"
+        jar="D:\Android Studio Workspace company\shuorigf_green_ver\libs\litepal-2.0.0-src.jar"
         jumboMode="false"
         min-sdk-version="18"
         optimize="true"
         revision="26.0.2"
         sha1="97f92e33f9becb947c6e0c23a9c175b44ea8e99b">
-        <dex dex="D:\Android Studio Workspace\shuorigf_green_ver\build\intermediates\transforms\preDex\release\5.jar" />
+        <dex dex="D:\Android Studio Workspace company\shuorigf_green_ver\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Studio Workspace company\shuorigf_green_ver\libs\mpchartlib.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1a2ad7aa25101e39abf7152cb12986264d116c53">
+        <dex dex="D:\Android Studio Workspace company\shuorigf_green_ver\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Studio Workspace company\shuorigf_green_ver\libs\android-support-v4.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
+        <dex dex="D:\Android Studio Workspace company\shuorigf_green_ver\build\intermediates\transforms\preDex\release\10.jar" />
     </item>
 
 </items>

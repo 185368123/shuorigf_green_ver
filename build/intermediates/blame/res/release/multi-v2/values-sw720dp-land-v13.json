@@ -23,10 +23,54 @@
             ]
         },
         {
+            "outputFile": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "200,259",
+                        "endColumns": "58,42",
+                        "endOffsets": "254,297"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,42",
+                        "endOffsets": "109,152"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\build\\intermediates\\res\\merged\\release\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
             "map": [
                 {
                     "source": "D:\\Android Studio Workspace\\shuorigf_green_ver_eclipse\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "200,259",
+                        "endColumns": "58,42",
+                        "endOffsets": "254,297"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,42",
+                        "endOffsets": "109,152"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\res\\merged\\release\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Android Studio Workspace company\\shuorigf_green_ver\\res\\values-sw720dp-land\\dimens.xml",
                     "from": {
                         "startLines": "6,7",
                         "startColumns": "4,4",

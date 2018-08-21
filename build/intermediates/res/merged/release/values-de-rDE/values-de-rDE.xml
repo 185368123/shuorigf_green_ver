@@ -43,7 +43,7 @@
     <string name="cancel">Stornieren</string>
     <string name="capacity">Elektrizität</string>
     <string name="centigrade">℃</string>
-    <string name="change_device_name">Glaetten</string>
+    <string name="change_device_name">ändern</string>
     <string name="change_device_name_">Gerätenamen ändern</string>
     <string name="charge_apm_hour">Wiederaufladbare Amperestunden</string>
     <string name="charge_imit_oltage_set">Max.Ladespannung(V)</string>
@@ -92,6 +92,7 @@
     <string name="device_name_exists">Der Gerätename ist bereits vorhanden</string>
     <string name="device_name_set_failed">Einstellen ist fehlgeschlagen</string>
     <string name="device_name_set_sucess">Eingestellten Erfolg</string>
+    <string name="device_not_link">Gerat nicht verbunden</string>
     <string name="device_param_getting_failed">Fehler beim Lesen der Parameter</string>
     <string name="device_param_getting_success">Parameter Leseerfolg</string>
     <string name="device_param_setting_failed">Fehler bei der Parametereinstellung</string>

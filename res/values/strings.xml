@@ -211,5 +211,6 @@
     <string name="device_name_exists">The device name already exists</string>
     <string name="device_name_set_sucess">setting success</string>
     <string name="device_name_set_failed">setting failed</string>
+    <string name="device_not_link">Device not connected</string>
 
 </resources>

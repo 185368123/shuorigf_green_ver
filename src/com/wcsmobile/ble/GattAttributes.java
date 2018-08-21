@@ -16,6 +16,9 @@ public class GattAttributes {
     public static String DEVICE_READ_DATA_SERVER ="0000fff0-0000-1000-8000-00805f9b34fb";
    public static String DEVICE_READ_DATA_DEVICE ="0000fff1-0000-1000-8000-00805f9b34fb";
 
+    public static String DEVICE_READ_DATA_ATT ="0000ff50-0000-1000-8000-00805f9b34fb";
+    public static String DEVICE_READ_DATA_CHA ="0000ff51-0000-1000-8000-00805f9b34fb";
+
     static {
         //Services.
     //    attributes.put("0000180d-0000-1000-8000-00805f9b34fb", "Heart Rate Service");

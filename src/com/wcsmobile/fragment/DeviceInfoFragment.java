@@ -34,6 +34,8 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import static com.wcsmobile.activity.MainActivity.SEND_UART_STRING;
+
 @SuppressLint("ValidFragment")
 public class DeviceInfoFragment extends BaseFragment {
 
@@ -147,14 +149,18 @@ public class DeviceInfoFragment extends BaseFragment {
         mAddDeviceDialog = new AddDeviceDialog(getActivity(), mBleDevices);
         inputDialog = new InputDialog(getActivity(), getActivity().getSharedPreferences(SHAREDPERNAME, Activity.MODE_PRIVATE).getString("LastDeviceName", ""), new InputDialog.OnSetName() {
             @Override
-            public void onSucess() {
-                tv_device_name_value.setText(DBHelp.getInstance().getDeviceName(getActivity().getSharedPreferences(SHAREDPERNAME, Activity.MODE_PRIVATE).getString("LastDeviceName", "")));
-
+            public void onSucess(String s) {
+                Message msg = new Message();
+                msg.arg1 = MainActivity.SEND_NAME_DATA;
+                msg.obj = s.getBytes();
+                Log.e("修改名字信息发送：",s);
+                mHandler.sendMessage(msg);
+                 //tv_device_name_value.setText(DBHelp.getInstance().getDeviceName(getActivity().getSharedPreferences(SHAREDPERNAME, Activity.MODE_PRIVATE).getString("LastDeviceName", "")));
             }
 
             @Override
             public void onFaile() {
-                tv_device_name_value.setText(DBHelp.getInstance().getDeviceName(getActivity().getSharedPreferences(SHAREDPERNAME, Activity.MODE_PRIVATE).getString("LastDeviceName", "")));
+                //tv_device_name_value.setText(DBHelp.getInstance().getDeviceName(getActivity().getSharedPreferences(SHAREDPERNAME, Activity.MODE_PRIVATE).getString("LastDeviceName", "")));
             }
         });
 
@@ -209,9 +215,9 @@ public class DeviceInfoFragment extends BaseFragment {
             public void onClick(View view) {
                 if (mConnected) {
                    inputDialog.setName(getActivity().getSharedPreferences(SHAREDPERNAME, Activity.MODE_PRIVATE).getString("LastDeviceName", ""));
-                    inputDialog.show();
+                   inputDialog.show();
                 } else {
-                    Toast.makeText(getActivity(), "设备未连接", Toast.LENGTH_LONG).show();
+                    Toast.makeText(getActivity(), R.string.device_not_link, Toast.LENGTH_LONG).show();
                 }
 
             }
@@ -316,7 +322,6 @@ public class DeviceInfoFragment extends BaseFragment {
     };
 
     public void RefreshData() {
-
         new Thread(new RefreshThread()).start();
     }
 
@@ -412,5 +417,12 @@ public class DeviceInfoFragment extends BaseFragment {
         ShourigfData.DeviceVersionInfo ver_info = new ShourigfData.DeviceVersionInfo(bs);
         Log.d(TAG, "SoftVersion[" + ver_info.mSoftVersion + "]");
         tv_device_version_value.setText(ver_info.mSoftVersion);
+    }
+
+    public  void sendMessageString(String s){
+        Message msg = new Message();
+        msg.arg1 = SEND_UART_STRING;
+        msg.obj=s;
+        mHandler.sendMessage(msg);
     }
 }

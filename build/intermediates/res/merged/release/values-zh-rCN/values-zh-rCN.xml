@@ -92,6 +92,7 @@
     <string name="device_name_exists">该设备名已存在</string>
     <string name="device_name_set_failed">设置失败</string>
     <string name="device_name_set_sucess">设置成功</string>
+    <string name="device_not_link">设备未连接</string>
     <string name="device_param_getting_failed">参数读取失败</string>
     <string name="device_param_getting_success">参数读取成功</string>
     <string name="device_param_setting_failed">参数设置失败</string>

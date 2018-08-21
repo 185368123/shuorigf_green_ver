@@ -1,0 +1,4 @@
+#Tue Aug 14 16:37:56 CST 2018
+base.0=D\:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

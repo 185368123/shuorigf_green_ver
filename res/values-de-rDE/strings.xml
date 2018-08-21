@@ -204,9 +204,10 @@
 
     <string name="device_name">Gerätenamen</string>
     <string name="change_device_name_">Gerätenamen ändern</string>
-    <string name="change_device_name">Glaetten</string>
+    <string name="change_device_name">ändern</string>
     <string name="device_name_exists">Der Gerätename ist bereits vorhanden</string>
     <string name="device_name_set_sucess">Eingestellten Erfolg</string>
     <string name="device_name_set_failed">Einstellen ist fehlgeschlagen</string>
+    <string name="device_not_link">Gerat nicht verbunden</string>
 
 </resources>

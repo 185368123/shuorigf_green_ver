@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Aug 10 15:59:29 CST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Android Studio Workspace company\\shuorigf_green_ver\\build\\intermediates\\assets\\debug
+0.path=litepal.xml
+0.set=ASSET
+count=1
